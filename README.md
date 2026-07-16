@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/zenith-ai/main/public/logo.png" width="120" alt="Zenith AI">
+  
 </p>
 
 <h1 align="center">
